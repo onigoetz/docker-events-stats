@@ -1,5 +1,7 @@
 # Docker Event Listener
 
+> This is an experiment and I don't intend to add more features to it
+
 A Java application that monitors Docker events, specifically tracking "pull" and "run" events, and logs image details including name and size.
 
 ## Features
